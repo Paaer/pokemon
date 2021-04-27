@@ -1,6 +1,6 @@
 # pokemon
 
-A new Flutter project.
+My first pokemon flutter APP, shows a simple list of all different pokemons with data collected from API
 
 ## Getting Started
 
